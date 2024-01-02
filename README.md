@@ -1,4 +1,4 @@
-# weird-uses-of-ml-frameworks
+# Funky uses of ML frameworks
 
 This is just a place where I collect non-ML uses of ML frameworks. 
 
